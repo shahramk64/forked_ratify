@@ -69,7 +69,7 @@ RATIFY_NAMESPACE=gatekeeper-system
     echo "fake cert 1" > notation-file1.crt
     touch notation-file2.crt
     echo "fake cert 2" > notation-file2.crt
-    touch notation-file2.crt
+    touch notation-file3.crt
     echo "fake cert 3" > notation-file3.crt
 
     # Happy path:
