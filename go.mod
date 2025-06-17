@@ -43,7 +43,7 @@ require (
 	github.com/ratify-project/ratify-go v0.0.0-20250514054315-92d8d57164b5
 	github.com/ratify-project/ratify-verifier-go/notation v0.0.0-20250514055950-351f8d2b6c44
 	github.com/sigstore/cosign/v2 v2.2.4
-	github.com/sigstore/sigstore v1.9.4
+	github.com/sigstore/sigstore v1.9.5
 	github.com/sirupsen/logrus v1.9.3
 	github.com/spdx/tools-golang v0.5.5
 	github.com/spf13/cobra v1.9.1
